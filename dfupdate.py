@@ -7,7 +7,7 @@ import subprocess
 # 샘플 데이터프레임 생성
 data = {
     "name": ["Alice", "Bob", "Charlie"],
-    "age": [25, 30, 65],
+    "age": [25, 50, 65],
     "city": ["New York", "Los Angeles", "Chicago"]
 }
 df = pd.DataFrame(data)
